@@ -1,0 +1,14 @@
+{
+    "name": "screenscene",
+    "title": "Screen Scnee ",
+    "description": "A module for forcing the player view to initialize at a specific location",
+    "author": "AJAnderson",
+    "version": "0.0.1",
+    "minimumCoreVersion": "0.6.0",
+    "scripts": [
+        "scripts/screenscene.js"
+    ],
+    "url": "https://github.com/AJAnderson/screenscene",
+    "manifest": "https://raw.githubusercontent.com/AJAnderson/screenscene/master/module.json",
+    "download": "https://github.com/AJAnderson/screenscene/archive/master.zip"
+}
